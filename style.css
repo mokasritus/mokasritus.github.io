@@ -26,6 +26,7 @@ header {
   font-size: 220%;
   /*-border: thin solid;*/
   margin: 0px;
+  font-style: italic;
 }
 
 .larger {
@@ -42,7 +43,6 @@ p li{
 
 h3{
   margin-bottom: 0px;
-  
   font-family: 'Merriweather', serif;
 }
 
